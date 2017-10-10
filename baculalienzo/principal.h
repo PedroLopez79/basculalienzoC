@@ -15,6 +15,9 @@ public:
     explicit principal(QWidget *parent = 0);
     ~principal();
 
+private slots:
+    void on_actionOperacion_triggered();
+
 private:
     Ui::principal *ui;
 };

@@ -1,1 +1,18 @@
-<RCC/>
+<RCC>
+    <qresource prefix="/icons">
+        <file>bill.png</file>
+        <file>corteturno.png</file>
+        <file>iconSat3.png</file>
+        <file>Inventory-icon.png</file>
+        <file>inventory-maintenance-icon.png</file>
+        <file>invoice_clock.png</file>
+        <file>invoice_cross.png</file>
+        <file>invoice_gear.png</file>
+        <file>invoice_pencil.png</file>
+        <file>invoice_right.png</file>
+        <file>product-sales-report-icon.png</file>
+        <file>redoinvoice.png</file>
+        <file>Weigh Station-48.png</file>
+        <file>icons8-Bill-64.png</file>
+    </qresource>
+</RCC>

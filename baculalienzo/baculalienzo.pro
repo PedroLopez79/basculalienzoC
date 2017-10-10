@@ -32,3 +32,6 @@ HEADERS += \
 
 FORMS += \
         principal.ui
+
+RESOURCES += \
+    icons/icons.qrc
