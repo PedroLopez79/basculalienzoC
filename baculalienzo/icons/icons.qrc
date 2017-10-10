@@ -14,5 +14,7 @@
         <file>redoinvoice.png</file>
         <file>Weigh Station-48.png</file>
         <file>icons8-Bill-64.png</file>
+        <file>icons8-Connected-48.png</file>
+        <file>icons8-Disconnected-48.png</file>
     </qresource>
 </RCC>
