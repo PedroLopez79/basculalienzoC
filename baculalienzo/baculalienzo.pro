@@ -25,13 +25,16 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
         main.cpp \
-        principal.cpp
+        principal.cpp \
+    capturapeso.cpp
 
 HEADERS += \
-        principal.h
+        principal.h \
+    capturapeso.h
 
 FORMS += \
-        principal.ui
+        principal.ui \
+    capturapeso.ui
 
 RESOURCES += \
     icons/icons.qrc
