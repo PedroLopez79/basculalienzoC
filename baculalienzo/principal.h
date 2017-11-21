@@ -17,6 +17,7 @@ public:
 
 private slots:
     void on_actionOperacion_triggered();
+    void on_capturapeso_triggered();
 
 private:
     Ui::principal *ui;
